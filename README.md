@@ -10,7 +10,7 @@
 
 A modern, minimal movie discovery app with a beautiful dark interface. Search thousands of movies, view detailed information, and build your perfect watchlist.
 
-[Features](#-features) • [Design](#-design) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Contributing](#-contributing) • [Screenshots](#-screenshots) • [Live](#-live) • [Author](#-author)
+[Features](#-features) • [Design](#-design) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [Contributing](#-contributing) • [Screenshots](#-screenshots)
 
 </div>
 
